@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+walkfresh.co.za	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+walkfresh.co.za	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d2dfe2bbda8528acc52e38f6d07df668	c6eb11da3640cc88ae9e8eb954bf4925%7C%7C1603995999%7C%7C1603992399%7C%7C5764077f7e880ff2a5c1faf2facc76ea
+walkfresh.co.za	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	41d985980a95aaedcc378d907f63d6c7
+
